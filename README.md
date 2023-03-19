@@ -1,6 +1,33 @@
-### Hello iam Jonathan Digay Software Devloper  👋
+### Hello iam Jonathan Digay Software Developer  👋
 
-- 🔭 Enthusiast in React and Databases
-- - I developed some stuff in fullstack app
-- 🌱 You can Contact me at `digay0101@gmail.com`
+Front End Expirience
+- html
+- css
+- bootstrap
+- javascript
+- react js
+- next js
+- gatsby js
+
+Back end Expirience
+- Express js
+- Next js
+- php
+- laravel
+- spring boot
+
+Database Expirience
+- Mongodb
+- Mysql
+- Postgres
+- firebase
+
+Desktop application expirience
+- c#(.net framework)
+
+Graphic Designing tool expirience
+- Photoshop
+
+Content Management System expirience
+- wordpress
 
