@@ -1,6 +1,6 @@
 ### Hello iam Jonathan Digay Software Developer  👋
 
-Front End Expirience
+Front End experience
 - html
 - css
 - bootstrap
@@ -9,25 +9,25 @@ Front End Expirience
 - next js
 - gatsby js
 
-Back end Expirience
+Back end experience
 - Express js
 - Next js
 - php
 - laravel
 - spring boot
 
-Database Expirience
+Database experience
 - Mongodb
 - Mysql
 - Postgres
 - firebase
 
-Desktop application expirience
+Desktop application experience
 - c#(.net framework)
 
-Graphic Designing tool expirience
+Graphic Designing tool experience
 - Photoshop
 
-Content Management System expirience
+Content Management System experience
 - wordpress
 
